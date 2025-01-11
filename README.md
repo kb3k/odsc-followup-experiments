@@ -1,7 +1,3 @@
-Certainly! Here's a prettier, more polished version of your README:
-
----
-
 # MNIST Distribution & Benford's Law
 
 Ever wondered what the distribution of the MNIST dataset looks like? Curious how it conforms to [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law)? You're in the right place!
@@ -51,4 +47,4 @@ Feel free to fork the repository, submit issues, or create pull requests. Contri
 
 ---
 
-Let me know if you need any adjustments!
+** This readme was created with the help of OpenAI's ChatGPT.
